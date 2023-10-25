@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: 
+Host: https://s1nelo.github.io/
+Sitemap: https://github.com/s1nelo/s1nelo.github.io/blob/main/sitemap.xml

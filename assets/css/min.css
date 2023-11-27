@@ -157,3 +157,36 @@ footer{
         transform: translate(-50%, 10px);
     }
 }
+
+.blocks{
+	display: flex;
+}
+
+.block{
+	width: 98px;
+	height: 98px;
+}
+
+.inst{
+	background-image: url(".assets/css/face/inst.png");
+}
+
+.twit{
+	background-image: url(".assets/css/face/twit.png");
+}
+
+.face{
+	background-image: url(".assets/css/face.png");
+}
+
+.inst:hover{
+	background-position: 0 -99;
+}
+
+.twit:hover{
+	background-position: 0 -99;
+}
+
+.face:hover{
+	background-position: 0 -99;
+}

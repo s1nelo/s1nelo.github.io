@@ -168,15 +168,15 @@ footer{
 }
 
 .inst{
-	background-image: url(".assets/css/face/inst.png");
+	background-image: url(".assets/Images/face/inst.png");
 }
 
 .twit{
-	background-image: url(".assets/css/face/twit.png");
+	background-image: url(".assets/Images/face/twit.png");
 }
 
 .face{
-	background-image: url(".assets/css/face.png");
+	background-image: url(".assets/Images/face.png");
 }
 
 .inst:hover{
